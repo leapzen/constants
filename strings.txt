@@ -1,0 +1,103 @@
+app_name=InterviewFox
+
+experience=Experience
+    
+drawer_open=Slider Menu Opened
+drawer_close=Slider Menu Closed
+
+# TODO: Remove or change this placeholder text -->
+hello_blank_fragment=Hello blank fragment
+
+#added from old strings file.. to be removed what files not required.-->
+hello_world=Hello world!
+action_settings=Settings
+bgColor=#2D397A
+
+title_activity_job_search=JobSearchActivity
+title_activity_audio_profile=AudioProfileActivity
+
+title_activity_tech_interview=TechInterviewActivity
+dummy_button=Dummy Button
+dummy_content=DUMMY\nCONTENT
+
+title_activity_audio_profile_retake=AudioProfileRetakeActivity
+title_activity_sliding_menu=SlidingMenuActivity
+
+
+accept_offer=ACCEPT OFFER
+accept_offer_content=Dear Sir/Mam, \n\nI am pleased to inform that I \naccept your offer and will be willing \nto join as per the offer letter. \n\nPlease accept this as my \nacceptance. \n\nThanks, \n
+decline_offer_content=Dear Sir/Mam, \n\nI am extremely sorry to decline your offer \nas I have decided to stay in my \ncurrent company. \n\nPlease accept this as my formal decline. \n\nThanks, \n \n \n
+decline_offer=DECLINE OFFER
+pick_time_slot=PICK A TIME SLOT
+not_now=Not Now
+submit=SUBMIT
+    
+
+# InterviewsActivity Search Description -->
+request_technical=REQUEST TECHNICAL INTERVIEW
+begin_pre_screening=Begin Pre-Screening Interview
+request_personal=REQUEST IN-PERSON INTERVIEW
+job_description=
+
+# InterviewsActivity Pick A Time Slot -->
+pick_timeSlot=PICK A TIME SLOT
+
+# Dialog Schedule InterviewsActivity -->
+start_interview_now=START INTERVIEW NOW
+schedule_later=SCHEDULE LATER
+btn_cancel=CANCEL
+
+# InterviewsActivity Decline Negotiate Accept Activity-->
+decline=DECLINE
+negotiate=NEGOTIATE
+accept=ACCEPT
+conversations=Conversations
+
+session_expired=It seems your session has expired or you have logged in other devise. \nPlease Login again.
+maintenance=Under Maintenance
+# Content Description -->
+desc_list_item_icon=Item Icon
+job_closed_button=Interview is Closed.  Find similar Jobs
+job_declined_button=Interview is Declined.  Find similar Jobs
+job_closed=This Interview has been closed.
+title_activity_loading=LoadingActivity
+title_activity_login=LoginActivity
+title_activity_sign_up=SignUpActivity
+title_activity_interviews=InterviewsActivity
+
+title_activity_search_description=Description
+
+noFavorites=You do not have any Favorite jobs. Mark jobs as favorite if you want to prepare and plan to take Pre-Screening Interview later. 
+noLoginFavorites=Please Login and mark jobs as your favorites, if you want to prepare and plan to take Pre-Screening Interview later.
+noTimeline=Once you apply for the job, then you are able to track your job application Timeline.
+noLoginTimeline=Please Login and apply for the jobs to track your job application Timeline.
+noTimelineAvailable=Sorry...! We are not able to fetch your job application Timeline. Please try later.
+#Pre-Screening dialog related-->
+listen_audio_instructions=Listen to the audio instructions
+listen_sample_audio_profile1=Listen to sample audio profile
+begin_pre_screening_interview=Begin Pre-Screening Interview now
+closing_date_info=The employer will consider applicants who has taken Pre-Screening Interview before
+title_activity_profile=ProfileActivity
+notify_attachment=Please attach your resume in pdf or doc format.
+noOffersMsg=We recommend you to take more  pre-screening interviews to find your dream job.\nAll the Best, for your job trials.
+email_text=Hi Interview Fox,\n I am uploading my resume, so please register me in Interview Fox.\n ThankYou.
+email_subject=Register in Interview Fox
+noSearchInterviews= No Open Jobs found for your <b>selected</b> criteria. Please <b>change</b> your filters to find Open Jobs.
+noOpenInterviews=Please start taking Pre-Screening Interviews to find your Dream Job. All the Best.
+noClosedInterviews=No closed interviews
+title_activity_interview_fox=InterviewFoxActivity
+noLoginMsg=Please Login to find your dream job
+
+#Validations Range related-->
+experience_in_months=Experience in Months (1-150)
+number_of_projects=Enter number of projects (1-29)
+new_update_title=Please update to new version
+new_update_required=We recommend you to update your app to make use of many useful enhacements. \nThank you
+playStore_redirect_url=<![CDATA[https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en]]>
+
+pre_screening_overlay_text=The employer had mandated to take the pre-screening interview. \nYour Profile is automatically applied to job once you take the pre-screening interview.
+title_activity_similar_jobs=SimilarJobsActivity
+title_activity_timeline=TimelineActivity
+title_activity_registration=RegistrationActivity
+title_activity_basic_profile=BasicProfileActivity
+title_activity_resume=ResumeActivity
