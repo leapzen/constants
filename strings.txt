@@ -100,4 +100,4 @@ title_activity_similar_jobs=SimilarJobsActivity
 title_activity_timeline=TimelineActivity
 title_activity_registration=RegistrationActivity
 title_activity_basic_profile=BasicProfileActivity
-title_activity_resume=ResumeActivit
+title_activity_resume=ResumeActivity
