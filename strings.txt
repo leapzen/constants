@@ -67,13 +67,14 @@ title_activity_interviews=InterviewsActivity
 
 title_activity_search_description=Description
 
-noFavorites=You do not have any Favorite jobs. Mark jobs as favorite if you want to prepare and plan to take Pre-Screening Interview later. 
-noLoginFavorites=Please Login and mark jobs as your favorites, if you want to prepare and plan to take Pre-Screening Interview later.
-noTimeline=Once you apply for the job, then you are able to track your job application Timeline.
-noLoginTimeline=Please Login and apply for the jobs to track your job application Timeline.
+noFavorites=You do not have any Favorite interviews. Mark interviews as favorite if you want to prepare and plan to take Pre-Screening Interview later.
+noLoginFavorites=Please Login and mark interviews as your favorites, if you want to prepare and plan to take Pre-Screening Interview later.
+noTimeline=Once you take job interview, then you are able to track your job application Timeline.
+noLoginTimeline=Please Login and take job interview to track your job application Timeline.
 noTimelineAvailable=Sorry...! We are not able to fetch your job application Timeline. Please try later.
 #Pre-Screening dialog related-->
 listen_audio_instructions=Listen to the audio instructions
+listen_to_test_papers_answers=Listen to your answers for skill : 
 listen_sample_audio_profile1=Listen to sample audio profile
 begin_pre_screening_interview=Begin Pre-Screening Interview now
 closing_date_info=The employer will consider applicants who has taken Pre-Screening Interview before
@@ -87,6 +88,10 @@ noOpenInterviews=Please start taking Pre-Screening Interviews to find your Dream
 noClosedInterviews=No closed interviews
 title_activity_interview_fox=InterviewFoxActivity
 noLoginMsg=Please Login to find your dream job
+interviewsClosingNote=Employer accepts interviews before 
+incompleteProfileAlert=Employer does not allow to take pre-screening interview, until you upload your latest Resume (OR) complete your profile.
+info_test_paper_reuse_note=This interview consists of
+
 
 #Validations Range related-->
 experience_in_months=Experience in Months (1-150)
