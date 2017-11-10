@@ -53,6 +53,11 @@ negotiate=NEGOTIATE
 accept=ACCEPT
 conversations=Conversations
 
+youtube_api_key=AIzaSyBia5K7w0SD8bAKGasdaC9tH40_0gE7lDw
+player_error=Error initializing YouTube player: %s
+seek_to=Jump To
+seek_to_hint=Seconds
+
 session_expired=It seems your session has expired or you have logged in other devise. \nPlease Login again.
 maintenance=Under Maintenance
 # Content Description -->
@@ -84,8 +89,10 @@ noOffersMsg=We recommend you to take more  pre-screening interviews to find your
 email_text=Hi Interview Fox,\n I am uploading my resume, so please register me in Interview Fox.\n ThankYou.
 email_subject=Register in Interview Fox
 noSearchInterviews= No Open Jobs found for your <b>selected</b> criteria. Please <b>change</b> your filters to find Open Jobs.
-noOpenInterviews=Please start taking Pre-Screening Interviews to find your Dream Job. All the Best.
-noClosedInterviews=No closed interviews
+noOpenInterviews=All your pending and interrupted interviews will be shown here. \n\n Start taking Pre-Screening Interviews to find your Dream Job. All the Best.
+noLoginOpenInterviews=All your pending and interrupted interviews will be shown here. \n Login to find your dream job.
+noClosedInterviews=Don\'t worry, if any of your applied jobs closed, we will find similar jobs. \n\n No closed interviews found.
+noLoginClosedInterviews=Don\'t worry, if any of your applied jobs closed, we will find similar jobs. \n\n Login to find your dream job.
 title_activity_interview_fox=InterviewFoxActivity
 noLoginMsg=Please Login to find your dream job
 interviewsClosingNote=Employer accepts interviews before 
@@ -106,3 +113,4 @@ title_activity_timeline=TimelineActivity
 title_activity_registration=RegistrationActivity
 title_activity_basic_profile=BasicProfileActivity
 title_activity_resume=ResumeActivity
+title_activity_youtube_player=YoutubePlayerActivity
