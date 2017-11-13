@@ -106,6 +106,14 @@ interviewsClosingNote=Employer accepts interviews before
 incompleteProfileAlert=Employer does not allow to take pre-screening interview, until you upload your latest Resume (OR) complete your profile.
 info_test_paper_reuse_note=This interview consists of
 
+msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favorite
+msg_updates_like_success=\tThank you..! Article has been \n\t added to your favorites
+msg_updates_dislike_success=\tArticle has been removed \n\t from your favorites
+msg_updates_like_error=\tOops..! Unable to add this \n\t article to your favorites
+msg_updates_dislike_error=\tOops..! Unable to remove this \n\t article from your favorites
+
+
+
 
 #Validations Range related-->
 experience_in_months=Experience in Months (1-150)
