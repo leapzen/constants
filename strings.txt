@@ -93,8 +93,8 @@ email_subject=Register in Interview Fox
 noSearchInterviews= No Open Jobs found for your <b>selected</b> criteria. Please <b>change</b> your filters to find Open Jobs.
 noOpenInterviews=All your pending and interrupted interviews will be shown here. \n\n Start taking Pre-Screening Interviews to find your Dream Job. All the Best.
 noLoginOpenInterviews=All your pending and interrupted interviews will be shown here. \n\n Login to find your dream job.
-noClosedInterviews=Don\'t worry, if any of your applied jobs closed, we will find similar jobs. \n\n No closed interviews found.
-noLoginClosedInterviews=Don\'t worry, if any of your applied jobs closed, we will find similar jobs. \n\n Login to find your dream job.
+noClosedInterviews=Don\'t worry, if any of your applied jobs are closed, we will find similar jobs. \n\n No closed interviews found.
+noLoginClosedInterviews=Don\'t worry, if any of your applied jobs are closed, we will find similar jobs. \n\n Login to find your dream job.
 noLoginOffers=All your job offers will be shown here. \n\n Login and take interviews to find your dream job.
 noLoginAcceptedOffers=All your accepted job offers will be shown here. \n\n Login and take interviews to find your dream job.
 noLoginDeclinedOffers=All your declined job offers will be shown here. \n\n Login and take interviews to find your dream job.
@@ -117,6 +117,7 @@ msg_no_internet_access=You need to give mobile data access to InterviewFox app.
 msg_no_internet=You need to be connected to internet to use InterviewFox app.
 msg_no_login_ad_skill_interview=Please Login and Complete this Job interview before taking Additional Skill interviews.
 msg_login_ad_skill_interview=Please Complete this Job interview before taking Additional Skill interviews
+msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has closed this Job.\nPlease look start applying for other jobs.
 
 
 #Validations Range related-->
