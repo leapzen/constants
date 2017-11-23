@@ -118,7 +118,8 @@ msg_no_internet=You need to be connected to internet to use InterviewFox app.
 msg_no_login_ad_skill_interview=Please Login and Complete this Job interview before taking Additional Skill interviews.
 msg_login_ad_skill_interview=Please Complete this Job interview before taking Additional Skill interviews
 msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has closed this Job.\nPlease look start applying for other jobs.
-
+msg_no_login_recommended=Please login to see \'recommended interviews\' based on your job preferences.
+msg_no_login_profile">Please login to see and manage your profile.
 
 #Validations Range related-->
 experience_in_months=Experience in Months (1-150)
