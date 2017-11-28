@@ -135,3 +135,5 @@ title_activity_registration=RegistrationActivity
 title_activity_basic_profile=BasicProfileActivity
 title_activity_resume=ResumeActivity
 title_activity_youtube_player=YoutubePlayerActivity
+radio_fresher=Fresher
+radio_experienced=Experienced
