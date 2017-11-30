@@ -107,8 +107,8 @@ incompleteProfileAlert=Employer does not allow to take pre-screening interview, 
 info_test_paper_reuse_note=This interview consists of
 
 msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favorite
-msg_updates_like_success=\tThank you..! Article was \n\t added to your favorites
-msg_updates_dislike_success=\tArticle was removed from \n\t your favorites
+msg_updates_like_success=\tThank you..! Article was \n\t added to your favourites
+msg_updates_dislike_success=\tArticle was removed from \n\t your favourites
 msg_updates_like_error=\tOops..! Unable to add this \n\t article to your favorites
 msg_updates_dislike_error=\tOops..! Unable to remove this \n\t article from your favorites
 msg_crash_report_sent=\tReport sent successfully.\n\tWe will fix this issue soon....!!\n\tThank you..!!
@@ -117,7 +117,7 @@ msg_no_internet_access=You need to give mobile data access to InterviewFox app.
 msg_no_internet=You need to be connected to internet to use InterviewFox app.
 msg_no_login_ad_skill_interview=Please Login and Complete this Job interview before taking Additional Skill interviews.
 msg_login_ad_skill_interview=Please Complete this Job interview before taking Additional Skill interviews
-msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has closed this Job.\nPlease look start applying for other jobs.
+msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has closed this Job.\nPlease start applying for other jobs.
 msg_no_login_recommended=Please login to see \'recommended interviews\' based on your job preferences.
 msg_no_login_profile">Please login to see and manage your profile.
 
