@@ -126,7 +126,7 @@ experience_in_months=Experience in Months (1-150)
 number_of_projects=Enter number of projects (1-29)
 new_update_title=Please update to new version
 new_update_required=We recommend you to update your app to make use of many useful enhacements. \nThank you
-playStore_redirect_url=<![CDATA[https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en]]>
+playStore_redirect_url=https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en
 
 pre_screening_overlay_text=The employer had mandated to take the pre-screening interview. \nYour Profile is automatically applied to job once you take the pre-screening interview.
 title_activity_similar_jobs=SimilarJobsActivity
