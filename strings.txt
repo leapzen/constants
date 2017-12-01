@@ -72,8 +72,8 @@ title_activity_interviews=InterviewsActivity
 
 title_activity_search_description=Description
 
-noFavorites=You do not have any Favorite interviews. Mark interviews as favorite if you want to prepare and plan to take Pre-Screening Interview later.
-noLoginFavorites=Please Login and mark interviews as your favorites, if you want to prepare and plan to take Pre-Screening Interview later.
+noFavorites=You do not have any Favourite interviews. Mark interviews as favorite if you want to prepare and plan to take Pre-Screening Interview later.
+noLoginFavorites=Please Login and mark interviews as your favourites, if you want to prepare and plan to take Pre-Screening Interview later.
 noTimeline=Once you take job interview, then you are able to track your job application Timeline.
 noLoginTimeline=Please Login and take job interview to track your job application Timeline.
 noTimelineAvailable=Sorry...! We are not able to fetch your job application Timeline. Please try later.
