@@ -72,7 +72,7 @@ title_activity_interviews=InterviewsActivity
 
 title_activity_search_description=Description
 
-noFavorites=You do not have any Favourite interviews. Mark interviews as favorite if you want to prepare and plan to take Pre-Screening Interview later.
+noFavorites=You do not have any Favourite interviews. Mark interviews as favourite if you want to prepare and plan to take Pre-Screening Interview later.
 noLoginFavorites=Please Login and mark interviews as your favourites, if you want to prepare and plan to take Pre-Screening Interview later.
 noTimeline=Once you take job interview, then you are able to track your job application Timeline.
 noLoginTimeline=Please Login and take job interview to track your job application Timeline.
@@ -106,11 +106,11 @@ interviewsClosingNote=Employer accepts interviews before
 incompleteProfileAlert=Employer does not allow to take pre-screening interview, until you upload your latest Resume (OR) complete your profile.
 info_test_paper_reuse_note=This interview consists of
 
-msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favorite
+msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favourite
 msg_updates_like_success=\tThank you..! Article was \n\t added to your favourites
 msg_updates_dislike_success=\tArticle was removed from \n\t your favourites
-msg_updates_like_error=\tOops..! Unable to add this \n\t article to your favorites
-msg_updates_dislike_error=\tOops..! Unable to remove this \n\t article from your favorites
+msg_updates_like_error=\tOops..! Unable to add this \n\t article to your favourites
+msg_updates_dislike_error=\tOops..! Unable to remove this \n\t article from your favourites
 msg_crash_report_sent=\tReport sent successfully.\n\tWe will fix this issue soon....!!\n\tThank you..!!
 msg_app_crashed=Oops...!! \nIt seems the requested action failed. \nSorry for the Inconvenience caused. \n\nWe always try to do our best to serve you better.
 msg_no_internet_access=You need to give mobile data access to InterviewFox app.
