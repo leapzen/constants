@@ -121,6 +121,13 @@ msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has close
 msg_no_login_recommended=Please login to see \'recommended interviews\' based on your job preferences.
 msg_no_login_profile">Please login to see and manage your profile.
 
+load_jobs_time_interval=20
+
+
+
+
+
+
 #Validations Range related-->
 experience_in_months=Experience in Months (1-150)
 number_of_projects=Enter number of projects (1-29)
