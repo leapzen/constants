@@ -105,6 +105,8 @@ noLoginMsg=Please Login to find your dream job
 interviewsClosingNote=Employer accepts interviews before 
 incompleteProfileAlert=Employer does not allow to take pre-screening interview, until you upload your latest Resume (OR) complete your profile.
 info_test_paper_reuse_note=This interview consists of
+noInterviewTimeLines=All your job applications real time tracking timelines information will be shown here.\n\n Start taking Pre-Screening Interviews to find your Dream Job. All the Best.
+noLoginInterviewTimeLines=All your job applications real time tracking timelines information will be shown here.\n\n Login to find your dream job.
 
 msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favourite
 msg_updates_like_success=\tThank you..! Article was \n\t added to your favourites
