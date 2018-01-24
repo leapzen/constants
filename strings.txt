@@ -103,7 +103,7 @@ noLoginDeclinedOffers=All your declined job offers will be shown here. \n\n Logi
 noUpdates=You will see Updates and Notifications related to your interviews.
 noUpdatesMsg=You will see Updates and Notifications related to your interviews.
 noJobInvitations=Presently you do not have any invited interviews.
-noLoginInvitations=All your new interview invitations will be shown here. \n\n Login to see your invited interviews.
+noLoginInvitations=Login to see your invited interviews.
 declineJobInvitationFailedMsg=Declining job invitation failed. \nIf you already declined this invitation, it will be updated soon. \nPlease try after some time.
 
 
