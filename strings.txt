@@ -114,7 +114,7 @@ incompleteProfileAlert=Employer does not allow to take pre-screening interview, 
 info_test_paper_reuse_note=This interview consists of
 noInterviewTimeLines=All your job applications real time tracking timelines information will be shown here.\n\n Start taking Pre-Screening Interviews to find your Dream Job. All the Best.
 noLoginInterviewTimeLines=All your job applications real time tracking timelines information will be shown here.\n\n Login to find your dream job.
-latest_db_version=15
+latest_db_version=14
 
 msg_noLoginUpdateLike=\tPlease login to mark this \n\t article as favourite
 msg_updates_like_success=\tThank you..! Article was \n\t added to your favourites
