@@ -131,6 +131,22 @@ msg_login_ad_skill_interview=Please Complete this Job interview before taking Ad
 msg_job_not_found=Sorry..!! Job Not Found.\nIt looks like the Employer has closed this Job.\nPlease start applying for other jobs.
 msg_no_login_recommended=Please login to see \'recommended interviews\' based on your job preferences.
 msg_no_login_profile">Please login to see and manage your profile.
+msg_listen_to_interview=( Listen to your Interview )
+msg_job_closed=( Interview is closed, Find Similar jobs )
+msg_job_declined=( You declined Interview, Find Similar jobs )
+msg_employer_rejected=( Employer rejected, Find Similar jobs )
+
+
+listen_to_interview_button_name">LISTEN TO PRE-SCREENING INTERVIEW
+continue_interview_button_name">CONTINUE PRE-SCREENING INTERVIEW
+take_interview_button_name">TAKE PRE-SCREENING INTERVIEW
+invited_interview_left_button_name">NOT INTERESTED
+invited_interview_right_button_name">TAKE INTERVIEW
+declined_by_employer_button_name">TAKE PRE-SCREENING INTERVIEW
+job_closed_button_name">INTERVIEW CLOSED, FIND SIMILAR
+job_declined_button_name">YOU DECLINED INTERVIEW, FIND SIMILAR
+employer_rejected_button_name">EMPLOYER REJECTED, FIND SIMILAR JOBS
+default_button_name=TAKE PRE-SCREENING INTERVIEW
 
 load_jobs_time_interval=20
 
@@ -143,6 +159,7 @@ load_jobs_time_interval=20
 experience_in_months=Experience in Months (1-150)
 number_of_projects=Enter number of projects (1-29)
 new_update_title=Please update to new version
+msg_new_update_flash_info=\n\tA new stable update is available.\n\tPlease update the app from Playstore.\n\tThank you..!!
 new_update_required=We recommend you to update your app to make use of many useful enhacements. \nThank you
 playStore_redirect_url=https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en
 
