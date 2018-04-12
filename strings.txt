@@ -156,10 +156,11 @@ load_jobs_time_interval=20
 
 
 #Validations Range related-->
+app_stable_version=26
 experience_in_months=Experience in Months (1-150)
 number_of_projects=Enter number of projects (1-29)
 new_update_title=Please update to new version
-msg_new_update_flash_info=\n\tA new stable update is available.\n\tPlease update the app from Playstore.\n\tThank you..!!
+msg_new_update_flash_info=\n\tA new stable update is available.\n\You can update the app from Playstore.\n\tThank you..!!
 new_update_required=We recommend you to update your app to make use of many useful enhacements. \nThank you
 playStore_redirect_url=https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en
 
