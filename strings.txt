@@ -195,5 +195,5 @@ delete=DELETE
 update=UPDATE
 title_activity_interview_timeline=Interview Timelines
 title_activity_job_offers=Job Offers
-noLoginMatchingInfo=Login to see how well this job info matches with your profile (Experience, Salary, Skills, Locations etc..)
+noLoginMatchingInfo=Login to see how well this job info matches with your profile \n(Experience, Salary, Skills, Locations etc..)
 
