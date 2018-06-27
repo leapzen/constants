@@ -173,3 +173,27 @@ title_activity_resume=ResumeActivity
 title_activity_youtube_player=YoutubePlayerActivity
 radio_fresher=Fresher
 radio_experienced=Experienced
+
+
+
+
+
+
+
+
+
+
+navigation_drawer_open=Open navigation drawer
+navigation_drawer_close=Close navigation drawer
+
+additional_skill_title_info=Please select a skill level to take interview
+take_new=Take new
+re_use=Re-use
+select_skill_level_label=Please select a level of interview
+take_skill_interview_button_lebel=TAKE SKILL INTERVIEW
+delete=DELETE
+update=UPDATE
+title_activity_interview_timeline=Interview Timelines
+title_activity_job_offers=Job Offers
+noLoginMatchingInfo=Login to see how well this job info matches with your profile (Experience, Salary, Skills, Locations etc..)
+
