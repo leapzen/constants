@@ -199,7 +199,7 @@ title_activity_interview_timeline=Interview Timelines
 title_activity_job_offers=Job Offers
 noLoginMatchingInfo=Login to see how well this job info matches with your profile \n\n(Experience, Salary, Skills, Locations etc..)
 
-resumeDownloadedMessage=File Downloaded successfully. \nYou can find in your File Manager: \'Resume.pdf\'
+resumeDownloadedMessage=File Downloaded successfully to
 addSkillToResumeNote=You can add this skill to your resume by selecting the following responses
 clickToListenNote=Click on the Question to listen your answer
 pdfResumeNotUploaded=Please upload your latest resume in the \'PDF\' format
