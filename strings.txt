@@ -105,7 +105,7 @@ noUpdatesMsg=You will see Updates and Notifications related to your interviews.
 noJobInvitations=Presently you do not have any invited interviews.
 noLoginInvitations=Login to see your invited interviews.
 declineJobInvitationFailedMsg=Declining job invitation failed. \nIf you already declined this invitation, it will be updated soon. \nPlease try after some time.
-noSkillInterviews=All your completed skill interviews will be shown here.\n\n You can add them to your resume
+noSkillInterviews=All your completed skill interviews will be shown here.\n You can add them to your resume
 noLoginSkillInterviews=All your completed skill interviews will be shown here.\n\n Login to add skill interviews to your resume
 
 
@@ -203,3 +203,6 @@ resumeDownloadedMessage=File Downloaded successfully to
 addSkillToResumeNote=You can add this skill to your resume by selecting the following responses
 clickToListenNote=Click on the Question to listen your answer
 pdfResumeNotUploaded=Please upload your latest resume in the \'PDF\' format
+title_activity_new_skill_interview=NewSkillInterviewActivity
+permissionRequiredSkillInterview=You need to give Storage and Mic permission to take skill interview
+loadingSkillInterviewsFailed=Loading Skill interviews failed. Please try later.
