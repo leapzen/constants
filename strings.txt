@@ -206,3 +206,4 @@ pdfResumeNotUploaded=Please upload your latest resume in the \'PDF\' format
 title_activity_new_skill_interview=NewSkillInterviewActivity
 permissionRequiredSkillInterview=You need to give Storage and Mic permission to take skill interview
 loadingSkillInterviewsFailed=Loading Skill interviews failed. Please try later.
+skillInterviewLimitInfo=You can take a skill interview a maximum of 10 times in 6 months
