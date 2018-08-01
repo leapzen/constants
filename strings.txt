@@ -158,7 +158,7 @@ load_jobs_time_interval=20
 
 
 #Validations Range related-->
-app_stable_version=27
+app_stable_version=29
 experience_in_months=Experience in Months (1-150)
 number_of_projects=Enter number of projects (1-29)
 new_update_title=Please update to new version
